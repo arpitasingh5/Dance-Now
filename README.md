@@ -1,3 +1,1 @@
 # CovidApp
-
-Covid dashboard
